@@ -32,11 +32,11 @@ Phases: 1, 2, 3, 4
 Data can be read using the [Read_Data.m] file included.
 Each file contains the following quantities:
 
-% AVAILABLE FIELD NAMES
-% u     :Phase Averaged Streamwise Velocity                 [u]
-% v     :Phase Averaged Wall-Normal Velocity                [v]
-% uu    :Phase Averaged Reynolds Streamwise-Normal Stress   [uu]
-% uv    :Phase Averaged Reynolds Shear Stress               [uv]
-% vv    :Phase Averaged Reynolds Wall-Normal Stress         [vv]
-% wake  :Turbine Wake Center Mean                           [Y/D]
-% wave  :Wave Profile                                       [Y/D]
+AVAILABLE FIELD NAMES
+u     :Phase Averaged Streamwise Velocity                 [u]
+v     :Phase Averaged Wall-Normal Velocity                [v]
+uu    :Phase Averaged Reynolds Streamwise-Normal Stress   [uu]
+uv    :Phase Averaged Reynolds Shear Stress               [uv]
+vv    :Phase Averaged Reynolds Wall-Normal Stress         [vv]
+wake  :Turbine Wake Center Mean                           [Y/D]
+wave  :Wave Profile                                       [Y/D]
