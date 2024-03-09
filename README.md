@@ -1,7 +1,7 @@
 # turbulence-quantification-of-reynolds-shear-stress-wave-phase-dependence
 Experimental Particle Image Velocimetry (PIV) Data for Mouchref_2024
 
-This repository is includes the full dataset used in 
+This repository includes the full dataset used in 
 "Quantification of Reynolds shear stress wave-phase dependence in
 fixed-bottom offshore wind turbine via quadrant analysis"
 by C. Mouchref, et al. 2024
