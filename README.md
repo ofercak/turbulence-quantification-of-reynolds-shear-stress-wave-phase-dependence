@@ -11,9 +11,10 @@ The naming convention is:
 
 Vxx_FRxxx_Px.mat where,
 
-V is Velocity [Free Stream] x 10 in m/s
-FR is Frequency [Water Wave] x 100 in Hz and,
-P is the Phase Averaged Wave Crest Location (theta)
+V is Velocity [Free Stream] in dm/s (decimeters per second)
+FR is Frequency [Water Wave] in cHz (centihertz) and,
+P is the Phase Averaged Wave Crest Location (theta: 1-4)
+defined as x/D = 1.5 + wavelength/4 * (theta - 1)
 
 for example:
 V25_FR125_P1.mat is the phase averaged data set for a
